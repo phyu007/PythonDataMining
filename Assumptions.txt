@@ -1,0 +1,18 @@
+Assumptions:
+
+
+
+Part(I) a.
+All the required values are immediately next to the label.
+eg . Bank ref: Bank1234
+
+label	: Bank ref
+Required Value : Bank1234
+
+
+Keyword_lists(labels) is a constant string.
+
+
+Part(I) b.
+(t) (Fixed Rate Payer PayDate) is a table format. 
+
